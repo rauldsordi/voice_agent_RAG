@@ -14,8 +14,7 @@ This workflow lets a user speak a question, which is transcribed, converted into
 4. **Context-aware response** — the retrieved context is passed along with the question to Gemini, which generates an answer grounded in the retrieved data.
 5. **Voice/text output** — the response is returned to the user.
 
-## 📸 Demo
-
+![Workflow execution demo](workflow_demo.png)
 
 ## 🛠️ Tech stack
 
